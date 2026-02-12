@@ -8,7 +8,7 @@ Live Application
 
 &nbsp;**Live Demo:**
 
-https://beat-sugar-spike-bbumq5wqnxyv4dpfgjndrb.streamlit.app/
+https://sugar-spike-b3t98z59hxizp3ntdmaiob.streamlit.app/
 
 
 
@@ -279,4 +279,5 @@ Real-time nudges over long-term metrics
 
 
 Engagement and retention through gamification
+
 
